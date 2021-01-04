@@ -1,0 +1,9 @@
+SimulationType=Percolation
+Title=Basic Percolation Test 3
+Authors=Anish Kottu, James Arnold, Hosam Tagel-Din
+Description=For testing a simulation of Percolation to verify that it steps one cell at a time
+Filename=testresources/testPercolation3.csv
+ImagesUsed=
+ColorsUsed=
+EdgePolicy=Finite
+NeighborhoodType=Cardinal

@@ -1,0 +1,9 @@
+SimulationType=SegregationInvalid
+Title=Segregation Test
+Authors=Anish Kottu, James Arnold, Hosam Tagel-Din
+Description=For testing a random simulation of Segregation
+Filename=testresources/testSegregationInvalidStateValues.csv
+ImagesUsed=bricks.jpg,barren.jpg,fire.jpg
+ColorsUsed=
+EdgePolicy=Finite
+NeighborhoodType=Complete

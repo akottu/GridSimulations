@@ -1,0 +1,9 @@
+SimulationType=WaTor
+Title=WaTor
+Authors=Anish Kottu, James Arnold, Hosam Tagel-Din
+Description=For testing a random simulation of the WaTor
+Filename=resources/WaTorBasic.csv
+ImagesUsed=
+ColorsUsed=
+EdgePolicy=Finite
+NeighborhoodType=Complete

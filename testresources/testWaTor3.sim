@@ -1,0 +1,9 @@
+SimulationType=WaTor
+Title=WaTor Test File
+Authors=Anish Kottu, James Arnold, Hosam Tagel-Din
+Description=For testing a simulation of WaTor to makes sure fish breed
+Filename=testresources/testWaTor3.csv
+ImagesUsed=
+ColorsUsed=
+EdgePolicy=Toroid
+NeighborhoodType=Complete

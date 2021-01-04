@@ -1,0 +1,9 @@
+SimulationType=RockPaperScissors
+Title=Rock Paper Scissors Test 3
+Authors=Anish Kottu, James Arnold, Hosam Tagel-Din
+Description=For testing a simulation of Rock Paper Scissors to make sure rock beats scissors, scissors beats paper, etc
+Filename=testresources/testRockPaperScissors3.csv
+ImagesUsed=
+ColorsUsed=
+EdgePolicy=Finite
+NeighborhoodType=Complete

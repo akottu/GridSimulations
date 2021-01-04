@@ -1,0 +1,9 @@
+SimulationType=Conway
+Title=Sim 2
+Authors=Anish Kottu, James Arnold, Hosam Tagel-Din
+Description=For testing a random simulation of the Game of Life
+Filename=resources/Conway2.csv
+ImagesUsed=
+ColorsUsed=
+EdgePolicy=Finite
+NeighborhoodType=Complete

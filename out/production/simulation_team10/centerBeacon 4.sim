@@ -1,0 +1,9 @@
+SimulationType=Conway
+Title=Center Beacon
+Authors=Anish Kottu, James Arnold, Hosam Tagel-Din
+Description=For testing a center beacon conway simulation
+Filename=testresources/centerBeacon.csv
+ImagesUsed=
+ColorsUsed=
+EdgePolicy=Finite
+NeighborhoodType=Complete

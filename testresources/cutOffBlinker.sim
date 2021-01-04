@@ -1,0 +1,9 @@
+SimulationType=Conway
+Title=Cut off Blinker
+Authors=Anish Kottu, James Arnold, Hosam Tagel-Din
+Description=For testing a cut off blinker conway simulation
+Filename=testresources/cutOffBlinker.csv
+ImagesUsed=
+ColorsUsed=
+EdgePolicy=Finite
+NeighborhoodType=Complete

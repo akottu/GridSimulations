@@ -1,0 +1,9 @@
+SimulationType=Conway
+Title=Cardinal Neighbors Test 1
+Authors=Anish Kottu, James Arnold, Hosam Tagel-Din
+Description=For testing a conway sim with cardinal directions
+Filename=testresources/testCardinal1.csv
+ImagesUsed=
+ColorsUsed=
+EdgePolicy=Finite
+NeighborhoodType=Cardinal

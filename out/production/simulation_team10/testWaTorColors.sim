@@ -1,0 +1,9 @@
+SimulationType=WaTor
+Title=WaTor Test File 5
+Authors=Anish Kottu, James Arnold, Hosam Tagel-Din
+Description=For testing a simulation of WaTor to see WaTor colors match what is expected
+Filename=testresources/testWaTorColors.csv
+ImagesUsed=
+ColorsUsed=
+EdgePolicy=Toroid
+NeighborhoodType=Complete

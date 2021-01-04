@@ -1,0 +1,9 @@
+SimulationType=FireSpread
+Title=Fire Spread Test 2
+Authors=Anish Kottu, James Arnold, Hosam Tagel-Din
+Description=For testing a simulation of the Fire spread with 100% regrowth rate
+Filename=testresources/testFireSpread2.csv
+ImagesUsed=
+ColorsUsed=
+EdgePolicy=Finite
+NeighborhoodType=Complete

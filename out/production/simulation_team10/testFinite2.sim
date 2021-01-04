@@ -1,0 +1,9 @@
+SimulationType=Conway
+Title=finite edge Test 2
+Authors=Anish Kottu, James Arnold, Hosam Tagel-Din
+Description=Testing finite boundary conditions
+Filename=testresources/testFinite2.csv
+ImagesUsed=
+ColorsUsed=
+EdgePolicy=Finite
+NeighborhoodType=Cardinal

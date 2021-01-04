@@ -1,0 +1,9 @@
+SimulationType=WaTor
+Title=WaTor Test File 4
+Authors=Anish Kottu, James Arnold, Hosam Tagel-Din
+Description=For testing a simulation of WaTor to makes sure sharks breed
+Filename=testresources/testWaTor4.csv
+ImagesUsed=
+ColorsUsed=
+EdgePolicy=Toroid
+NeighborhoodType=Complete

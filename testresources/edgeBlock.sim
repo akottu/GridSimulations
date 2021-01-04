@@ -1,0 +1,9 @@
+SimulationType=Conway
+Title=Edge Blinker
+Authors=Anish Kottu, James Arnold, Hosam Tagel-Din
+Description=For testing a edge blinker conway simulation
+Filename=testresources/edgeBlock.csv
+ImagesUsed=
+ColorsUsed=
+EdgePolicy=Finite
+NeighborhoodType=Complete

@@ -1,0 +1,9 @@
+SimulationType=Segregation
+Title=Segregation Test
+Authors=Anish Kottu, James Arnold, Hosam Tagel-Din
+Description=For testing a random simulation of Segregation
+Filename=resources/segregation1.csv
+ImagesUsed=bricks.jpg,barren.jpg,fire.jpg
+ColorsUsed=
+EdgePolicy=Finite
+NeighborhoodType=Complete

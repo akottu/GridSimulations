@@ -1,0 +1,284 @@
+HBox {
+  -fx-alignment: center;
+  -fx-padding: 2;
+  -fx-background-color: white;
+}
+Text {
+  -fx-fill: Black;
+}
+Label {
+  -fx-text-fill: #ffffff;
+}
+
+#error {
+  -fx-fill: RED;
+}
+#SimulationTitle{
+  -fx-font-size: 35;
+}
+Button{
+  -fx-text-fill: black;
+  -fx-background-color: #7BAFD4;
+  -fx-background-radius: 20;
+  -fx-min-width: 75;
+  -fx-padding: 8;
+  -fx-border-insets: 5px;
+  -fx-background-insets: 5px;
+}
+Button{
+  -fx-background-color: #7BAFD4;
+}
+GridPane{
+  -fx-background-color: #7BAFD4;
+  -fx-pref-width: 800;
+  -fx-pref-height: 600;
+}
+#LanguageScreen{
+  -fx-background-color: black;
+  -fx-pref-width: 500;
+  -fx-pref-height: 500;
+  -fx-alignment: center;
+}
+#LanguageScreen Button{
+  -fx-text-fill: black;
+  -fx-background-color: #7BAFD4;
+  -fx-background-radius: 20;
+  -fx-min-width: 350;
+  -fx-padding: 50;
+  -fx-font-size: 35;
+  -fx-border-insets: 25px;
+  -fx-background-insets: 25px;
+}
+.save-new-config{
+  -fx-hgap: 50;
+  -fx-vgap: 50;
+  -fx-padding: 20;
+  -fx-pref-height: 400;
+  -fx-pref-width: 500;
+  -fx-font-size: 22;
+}
+ColorPalette .hyperlink{
+  visibility: hidden;
+}
+
+.BURNING {
+  -fx-background-color: RED;
+  -fx-border-color: black;
+  -fx-border-width: 1;
+}
+.BURNINGIMAGE {
+  -fx-background-image: url('fire.jpg');
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center;
+  -fx-background-size: 100% 100%;
+  -fx-border-color: black;
+  -fx-border-width: 1;
+}
+.TREE {
+  -fx-background-color: GREEN;
+  -fx-border-color: black;
+  -fx-border-width: 1;
+}
+.TREEIMAGE {
+  -fx-background-image: url('tree.jpg');
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center;
+  -fx-background-size: 100% 100%;
+  -fx-border-color: black;
+  -fx-border-width: 1;
+}
+.EMPTY {
+  -fx-background-color: YELLOW;
+  -fx-border-color: black;
+  -fx-border-width: 1;
+}
+.EMPTYIMAGE {
+  -fx-background-image: url('barren.jpg');
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center;
+  -fx-background-size: 100% 100%;
+  -fx-border-color: black;
+  -fx-border-width: 1;
+}
+.WATER {
+  -fx-background-color: #7BAFD4;
+  -fx-border-color: black;
+  -fx-border-width: 1;
+}
+.WATERIMAGE {
+  -fx-background-image: url('water.jpg');
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center;
+  -fx-background-size: 100% 100%;
+  -fx-border-color: black;
+  -fx-border-width: 1;
+}
+.FISH {
+  -fx-background-color: GREEN;
+  -fx-border-color: black;
+  -fx-border-width: 1;
+}
+.FISHIMAGE {
+  -fx-background-image: url('fish.jpg');
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center;
+  -fx-background-size: 100% 100%;
+  -fx-border-color: black;
+  -fx-border-width: 1;
+}
+.SHARK {
+  -fx-background-color: YELLOW;
+  -fx-border-color: black;
+  -fx-border-width: 1;
+}
+.SHARKIMAGE {
+  -fx-background-image: url('shark.jpg');
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center;
+  -fx-background-size: 100% 100%;
+  -fx-border-color: black;
+  -fx-border-width: 1;
+}
+.WALL {
+  -fx-background-color: GREY;
+  -fx-border-color: black;
+  -fx-border-width: 1;
+}
+.WALLIMAGE {
+  -fx-background-image: url('bricks.jpg');
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center;
+  -fx-background-size: 100% 100%;
+  -fx-border-color: black;
+  -fx-border-width: 1;
+}
+.FULL {
+  -fx-background-color: #7BAFD4;
+  -fx-border-color: black;
+  -fx-border-width: 1;
+}
+.FULLIMAGE {
+  -fx-background-image: url('water.jpg');
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center;
+  -fx-background-size: 100% 100%;
+  -fx-border-color: black;
+  -fx-border-width: 1;
+}
+.EMPTY {
+  -fx-background-color: WHITE;
+  -fx-border-color: black;
+  -fx-border-width: 1;
+}
+.EMPTYIMAGE {
+  -fx-background-image: url('empty.png');
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center;
+  -fx-background-size: 100% 100%;
+  -fx-border-color: black;
+  -fx-border-width: 1;
+}
+.ROCK {
+  -fx-background-color: RED;
+  -fx-border-color: black;
+  -fx-border-width: 1;
+}
+.ROCKIMAGE {
+  -fx-background-image: url('rock.jpg');
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center;
+  -fx-background-size: 100% 100%;
+  -fx-border-color: black;
+  -fx-border-width: 1;
+}
+.SCISSORS {
+  -fx-background-color: GREEN;
+  -fx-border-color: black;
+  -fx-border-width: 1;
+}
+.SCISSORSIMAGE {
+  -fx-background-image: url('scissors.jpg');
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center;
+  -fx-background-size: 100% 100%;
+  -fx-border-color: black;
+  -fx-border-width: 1;
+}
+.PAPER {
+  -fx-background-color: #7BAFD4;
+  -fx-border-color: black;
+  -fx-border-width: 1;
+}
+.PAPERIMAGE {
+  -fx-background-image: url('paper.png');
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center;
+  -fx-background-size: 100% 100%;
+  -fx-border-color: black;
+  -fx-border-width: 1;
+}
+.DEAD {
+  -fx-background-color: LIGHTGREY;
+  -fx-border-color: black;
+  -fx-border-width: 1;
+}
+.DEADIMAGE {
+  -fx-background-image: url('skull.png');
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center;
+  -fx-background-size: 100% 100%;
+  -fx-border-color: black;
+  -fx-border-width: 1;
+}
+.ALIVE {
+  -fx-background-color: #7BAFD4;
+  -fx-border-color: black;
+  -fx-border-width: 1;
+}
+.ALIVEIMAGE {
+  -fx-background-image: url('heart.png');
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center;
+  -fx-background-size: 100% 100%;
+  -fx-border-color: black;
+  -fx-border-width: 1;
+}
+.O{
+  -fx-background-color: #7BAFD4;
+  -fx-border-color: black;
+  -fx-border-width: 1;
+}
+.OIMAGE{
+  -fx-background-image: url('o.png');
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center;
+  -fx-background-size: 100% 100%;
+  -fx-border-color: black;
+  -fx-border-width: 1;
+}
+.X{
+  -fx-background-color: RED;
+  -fx-border-color: black;
+  -fx-border-width: 1;
+}
+.XIMAGE{
+  -fx-background-image: url('x.png');
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center;
+  -fx-background-size: 100% 100%;
+  -fx-border-color: black;
+  -fx-border-width: 1;
+}
+.EMPTY{
+  -fx-background-color: WHITE;
+  -fx-border-color: black;
+  -fx-border-width: 1;
+}
+.EMPTYIMAGE{
+  -fx-background-image: url('empty.png');
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center;
+  -fx-background-size: 100% 100%;
+  -fx-border-color: black;
+  -fx-border-width: 1;
+}

@@ -1,0 +1,9 @@
+SimulationType=Conway
+Title=Center Tub
+Authors=Anish Kottu, James Arnold, Hosam Tagel-Din
+Description=For testing a center tub conway simulation
+Filename=testresources/centerTub.csv
+ImagesUsed=
+ColorsUsed=
+EdgePolicy=Finite
+NeighborhoodType=Complete

@@ -1,0 +1,9 @@
+SimulationType=Conway
+Title=Corner Neighbors Test 1
+Authors=Anish Kottu, James Arnold, Hosam Tagel-Din
+Description=For testing a conway sim with corner neighbors
+Filename=testresources/testCorner1.csv
+ImagesUsed=
+ColorsUsed=
+EdgePolicy=Finite
+NeighborhoodType=Corner

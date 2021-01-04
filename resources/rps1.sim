@@ -1,0 +1,9 @@
+SimulationType=RockPaperScissors
+Title=Rock Paper Scissors Test
+Authors=Anish Kottu, James Arnold, Hosam Tagel-Din
+Description=For testing a random simulation of Rock Paper Scissors
+Filename=resources/rps1.csv
+ImagesUsed=
+ColorsUsed=
+EdgePolicy=Finite
+NeighborhoodType=Complete

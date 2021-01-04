@@ -1,0 +1,9 @@
+SimulationType=FireSpread
+Title=Sample Fire Spread
+Authors=Anish Kottu, James Arnold, Hosam Tagel-Din
+Description=For testing a random simulation of the Fire spreads
+Filename=resources/samplefirespread.csv
+ImagesUsed=
+ColorsUsed=
+EdgePolicy=Finite
+NeighborhoodType=Complete

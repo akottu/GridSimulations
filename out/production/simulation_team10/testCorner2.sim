@@ -1,0 +1,9 @@
+SimulationType=WaTor
+Title=Corner Neighbors Test 2
+Authors=Anish Kottu, James Arnold, Hosam Tagel-Din
+Description=For testing if a shark will see a diagonal fish when using corner directions
+Filename=testresources/testCorner2.csv
+ImagesUsed=
+ColorsUsed=
+EdgePolicy=Finite
+NeighborhoodType=Corner

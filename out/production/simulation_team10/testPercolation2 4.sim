@@ -1,0 +1,9 @@
+SimulationType=Percolation
+Title=Basic Percolation Test 2
+Authors=Anish Kottu, James Arnold, Hosam Tagel-Din
+Description=For testing a simulation of Percolation to verify it doesn't percolate diagonally
+Filename=testresources/testPercolation2.csv
+ImagesUsed=
+ColorsUsed=
+EdgePolicy=Finite
+NeighborhoodType=Cardinal

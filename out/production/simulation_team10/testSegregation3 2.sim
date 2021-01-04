@@ -1,0 +1,9 @@
+SimulationType=Segregation
+Title=Segregation Test 3
+Authors=Anish Kottu, James Arnold, Hosam Tagel-Din
+Description=For testing a simulation of Segregation's threshold value
+Filename=testresources/testSegregation3.csv
+ImagesUsed=
+ColorsUsed=
+EdgePolicy=Finite
+NeighborhoodType=Complete

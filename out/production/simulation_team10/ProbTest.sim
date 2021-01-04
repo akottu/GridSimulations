@@ -1,0 +1,10 @@
+#Mon Oct 19 22:49:16 EDT 2020
+ColorsUsed=
+Description=Description
+NeighborhoodType=Complete
+Authors=Author
+EdgePolicy=Finite
+Title=ProbTest
+Filename=resources/ProbTest.csv
+ImagesUsed=
+SimulationType=Conway

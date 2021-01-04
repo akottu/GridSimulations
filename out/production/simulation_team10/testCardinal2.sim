@@ -1,0 +1,9 @@
+SimulationType=WaTor
+Title=Cardinal Neighbors Test 2
+Authors=Anish Kottu, James Arnold, Hosam Tagel-Din
+Description=For testing if a shark will see a diagonal fish when using cardinal directions
+Filename=testresources/testCardinal2.csv
+ImagesUsed=
+ColorsUsed=
+EdgePolicy=Finite
+NeighborhoodType=Cardinal

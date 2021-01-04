@@ -1,0 +1,9 @@
+SimulationType=Conway
+Title=toroid edge Test 1
+Authors=Anish Kottu, James Arnold, Hosam Tagel-Din
+Description=Testing toroid boundary conditions
+Filename=testresources/testToroid1.csv
+ImagesUsed=
+ColorsUsed=
+EdgePolicy=Toroid
+NeighborhoodType=Complete

@@ -1,0 +1,9 @@
+SimulationType=Conway
+Title=klein edge Test 2
+Authors=Anish Kottu, James Arnold, Hosam Tagel-Din
+Description=Testing Klein boundary conditions
+Filename=testresources/testKlein2.csv
+ImagesUsed=
+ColorsUsed=
+EdgePolicy=Klein
+NeighborhoodType=Complete

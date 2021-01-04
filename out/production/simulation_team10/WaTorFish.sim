@@ -1,0 +1,9 @@
+SimulationType=WaTor
+Title=WaTorFish
+Authors=Anish Kottu, James Arnold, Hosam Tagel-Din
+Description=For testing a single fish
+Filename=resources/WaTorFish.csv
+ImagesUsed=
+ColorsUsed=
+EdgePolicy=Finite
+NeighborhoodType=Complete

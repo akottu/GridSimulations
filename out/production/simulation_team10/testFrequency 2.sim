@@ -1,0 +1,10 @@
+#Sat Oct 17 12:29:22 EDT 2020
+ColorsUsed=
+Description=vandjk
+NeighborhoodType=Complete
+Authors=ndgkfj
+EdgePolicy=Finite
+Title=testFrequency
+Filename=resources/testFrequency.csv
+ImagesUsed=bricks.jpg,barren.jpg,fire.jpg,
+SimulationType=Segregation

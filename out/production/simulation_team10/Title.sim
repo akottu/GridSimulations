@@ -1,0 +1,10 @@
+#Mon Oct 19 22:49:17 EDT 2020
+ColorsUsed=
+Description=Description
+NeighborhoodType=Complete
+Authors=Author
+EdgePolicy=Finite
+Title=Title
+Filename=resources/Title.csv
+ImagesUsed=
+SimulationType=FireSpread

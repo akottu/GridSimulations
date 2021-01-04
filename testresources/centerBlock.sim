@@ -1,0 +1,9 @@
+SimulationType=Conway
+Title=Center Block
+Authors=Anish Kottu, James Arnold, Hosam Tagel-Din
+Description=For testing a center Block Conway Simulation
+Filename=testresources/centerBlock.csv
+ImagesUsed=
+ColorsUsed=
+EdgePolicy=Finite
+NeighborhoodType=Complete

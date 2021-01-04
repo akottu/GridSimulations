@@ -1,0 +1,9 @@
+SimulationType=Conway
+Title=Center Blinker
+Authors=Anish Kottu, James Arnold, Hosam Tagel-Din
+Description=For testing a center blinker conway simulation
+Filename=testresources/centerBlinker.csv
+ImagesUsed=
+ColorsUsed=
+EdgePolicy=Finite
+NeighborhoodType=Complete

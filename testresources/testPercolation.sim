@@ -1,0 +1,9 @@
+SimulationType=Percolation
+Title=Basic Percolation Test
+Authors=Anish Kottu, James Arnold, Hosam Tagel-Din
+Description=For testing a simulation of Percolation to verify basic functionality
+Filename=testresources/testPercolation.csv
+ImagesUsed=
+ColorsUsed=
+EdgePolicy=Finite
+NeighborhoodType=Cardinal
